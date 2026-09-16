@@ -1,0 +1,22 @@
+PlasMacintosh Licensing
+=======================
+
+PlasMacintosh is a mixed hardware/software research project.
+
+Hardware designs, mechanical designs, schematics, and associated hardware
+documentation are licensed under the CERN Open Hardware Licence Version 2 -
+Strongly Reciprocal (CERN-OHL-S-2.0).
+
+See:
+LICENSES/CERN-OHL-S-2.0.txt
+
+Software, simulation code, data-acquisition code, analysis code, and other
+source code are licensed under the MIT License.
+
+See:
+LICENSES/MIT.txt
+
+Experimental datasets may be released under separate terms specified with
+the applicable dataset.
+
+Copyright (c) 2026 Tomoki Kinoshita
