@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated experimental data
+data/raw/
+data/generated/
+
+# Analysis output
+results/
+plots/
+
+# OS/editor junk
+.DS_Store
+*~
+*.swp
