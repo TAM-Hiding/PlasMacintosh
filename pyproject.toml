@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "plasmacintosh"
+version = "0.1.0"
+description = "Experimental pipeline for plasma physical reservoir computing"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.7",
+    "numpy>=1.24",
+]
+
+[project.scripts]
+plasmacintosh-run = "plasmacintosh.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
